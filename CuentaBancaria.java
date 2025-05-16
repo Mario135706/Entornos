@@ -8,5 +8,6 @@ class TestCuentaBancaria
 		cuenta.ingreso(100);
 		System.out.println("Saldo: " + cuenta.getSaldo());
 		TipoIntereses
+		this.TipoIntereses = tipoIntereses;
 	}
 }
