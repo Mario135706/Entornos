@@ -7,5 +7,6 @@ class TestCuentaBancaria
 		cuenta.reintegro(50);
 		cuenta.ingreso(100);
 		System.out.println("Saldo: " + cuenta.getSaldo());
+		TipoIntereses
 	}
 }
